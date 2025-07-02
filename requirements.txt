@@ -4,4 +4,10 @@ matplotlib
 statsmodels
 jupyterlab
 notebook
+scikit-learn
+textblob
+nltk
+wordcloud
+spacy
 ace_tools
+pandas

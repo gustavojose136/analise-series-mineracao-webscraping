@@ -1,0 +1,1 @@
+Este é um exemplo de texto para demonstrar técnicas de mineração de texto.
