@@ -1,0 +1,7 @@
+ipykernel
+pandas
+matplotlib
+statsmodels
+jupyterlab
+notebook
+ace_tools

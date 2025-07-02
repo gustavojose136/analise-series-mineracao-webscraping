@@ -1,0 +1,14 @@
+name: analise_env
+channels:
+  - defaults
+dependencies:
+  - python=3.12
+  - ipykernel
+  - pandas
+  - matplotlib
+  - statsmodels
+  - jupyterlab
+  - notebook
+  - pip
+  - pip:
+    - ace_tools
