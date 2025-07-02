@@ -1,0 +1,74 @@
+# Byte-compiled / optimized / DLLs
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+.pytest_cache/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IPython history
+.profile_default/
+ipython_config.py
+
+# Environments
+.env
+.venv
+env/
+venv/
+analise_env/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# PyCharm
+.idea/
+
+# VSCode
+.vscode/
+
+# Temporary files
+*.tmp
+*.log
+*.out
+
+# macOS
+.DS_Store
+
+# Windows thumbnail cache
+Thumbs.db
+
+# Zipped packages
+*.zip
+
+# ACE tools generated files
+*.ipynb_checkpoints/
+
+# Optional environment files
+environment.yml
+requirements.txt
