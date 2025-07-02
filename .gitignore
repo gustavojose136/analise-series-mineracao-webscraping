@@ -63,6 +63,10 @@ analise_env/
 # Windows thumbnail cache
 Thumbs.db
 
+# Data files
+01-time-series/data/raw/
+01-time-series/data/processed/
+
 # Zipped packages
 *.zip
 
